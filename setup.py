@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='aiohttp_query_requirements',
-    packages=['find:'],
+    packages=[],
     version='1.0.2',
     license='MIT',
     description='-',
