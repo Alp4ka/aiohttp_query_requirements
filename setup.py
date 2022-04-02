@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='aiohttp_query_requirements',
     packages=['aiohttp_query_requirements'],
-    version='1.0',
+    version='1.0.1',
     license='MIT',
     description='-',
     author='Roman Gorkovets',
