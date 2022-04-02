@@ -9,7 +9,7 @@ setup(
     author='Roman Gorkovets',
     author_email='saeretpk@gmail.com',
     url='https://github.com/Alp4ka/aiohttp_query_requirements',
-    download_url='TODO',
+    download_url='https://github.com/Alp4ka/aiohttp_query_requirements/archive/refs/tags/v1.0.0.tar.gz',
     keywords=['monitorboi', 'aiohttp', 'decorator'],
     install_requires=['aiohttp'],
     classifiers=[
